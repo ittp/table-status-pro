@@ -1,0 +1,15 @@
+{
+  "description": "An auto-generated demo by dumi",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/icons": "4.8.0",
+    "@ant-design/pro-components": "2.3.57",
+    "antd": "5.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "umi-request": "1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}
